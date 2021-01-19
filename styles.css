@@ -24,7 +24,7 @@ h3 {
   margin: 10px 0;
 }
 
-.cup {
+.tank {
   background-color: #fff;
   border: 4px solid #ed1d25;
   border-radius: 0 0 40px 40px;
@@ -37,7 +37,7 @@ h3 {
   width: 150px;
 }
 
-.cups {
+.tanks {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -45,7 +45,7 @@ h3 {
   width: 280px;
 }
 
-.cup.cup-small {
+.tank.tank-small {
   background-color: #fff;
   border-radius: 0 0 15px 15px;
   cursor: pointer;
@@ -60,7 +60,7 @@ h3 {
   transition: 0.3s ease;
 }
 
-.cup.cup-small.full {
+.tank.tank-small.full {
   background-color: #000;
   color: #fff;
 }
