@@ -11,5 +11,5 @@ https://user-images.githubusercontent.com/76056381/147970597-ad6d45b5-ad77-46dd-
 
 ## How to use
 1) Click the link above.
-2) Choose your hand and try your luck!
+2) Select litres of fuel to fill the tank!
 
